@@ -1,0 +1,15 @@
+header { 
+    background-color: aqua;
+    text-align: center;
+}
+
+hr {
+    border-color: rgb(139, 61, 114);
+}
+main { 
+    padding: 8px; 
+}
+.section.title {
+    color: #22b857;
+}
+    
